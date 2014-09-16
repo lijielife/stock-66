@@ -1,0 +1,28 @@
+
+GENERALS
+--------
+
+* Simple_stock is a simple stock control software made with codeigniter php framework + jquery.
+
+* All code is "Extreme high quality".
+
+* All code is fully commented.
+
+* Easy to understand and extend.
+
+
+MODELS
+------
+
+* Table names are in plural.
+
+* Class names are singular.
+
+
+
+CONTROLLERS
+-----------
+
+* All controllers has a search_by/(:field_name)/(:value) method that returns a json array of elements matching, this is just for autocompletes.
+
+
